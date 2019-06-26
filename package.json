@@ -1,0 +1,30 @@
+{
+  "name": "portolio-site",
+  "version": "0.0.1",
+  "description": "Revamp of my previous website",
+  "main": "js/scripts.js",
+  "scripts": {
+    "watch": "gulp watch"
+  },
+  "keywords": [
+    "portfolio",
+    "personal",
+    "website",
+    "tech",
+    "coding",
+    "dev",
+    "bootstrap",
+    "js"
+  ],
+  "author": "rijkerd",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1",
+    "gulp-wait": "0.0.2"
+  }
+}
