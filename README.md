@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to developer site portfolio 👋</h1>
+<h1 align="center">My developer portfolio website 👋</h1>
 <p>
   <img src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/richardaggrey8">
@@ -17,7 +17,7 @@ npm install
 ## Usage
 
 
-Follow this repo [https://github.com/RyanFitzgerald/devportfolio]
+Follow this repo [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio)
 
 ## Author
 
@@ -29,6 +29,8 @@ Follow this repo [https://github.com/RyanFitzgerald/devportfolio]
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
+## Thanks to [RyanFitzgerald](https://github.com/RyanFitzgerald/) :clap:
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
